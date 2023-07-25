@@ -5,9 +5,11 @@
 
 <br>
 
-- 👨‍💻 I'm 31 years old
+- ▶️ I'm 31 years old
 
-- 💬 Let's talk about **C#, JavaScript, Python, Java, HTML, CSS, SQL**
+- 👨‍💻 Systems analysis and development student
+
+- 💬 Let's talk about **C#, JavaScript, Python, Java and SQL**
   
 - 📫 How to reach me **carlosismaelad@gmail.com**
   
