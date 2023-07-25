@@ -1,9 +1,12 @@
-## Bem-vindo(a) ao meu perfil! 😁
+## Hi dear, i'm Carlos Dourado!
+<br>
+<h3> A BackEnd developer focused on never stop learning </h3>
+<br>
+- 👨‍💻 I'm 31 years old
+- 💬 Let's talk about **C#, JavaScript, Python, Java, HTML, CSS, SQL**
+- 📫 How to reach me **carlosismaelad@gmail.com**
+- ⚡ Fun fact **Oneye 😜**
 
-<p>
-Me chamos Carlos, tenho 31 anos e resido em Fortaleza-CE.
-Sou estudante de análise e desenvolvimento de sistemas.
-</p>
 
 <div style="display: inline_block">
   <p>Tecnologias mais usadas:</p>
@@ -18,11 +21,11 @@ Sou estudante de análise e desenvolvimento de sistemas.
  
  <br>
  
-  ### Se desejar entrar em contato comigo acesse as redes abaixo!
+  ### Contacts:
+<p align="center">
+<a href="https://twitter.com/Carlos_IsmaelAD" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="carlos_ismaelAD" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/carlosismaelad/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlosismaelad" height="20" width="20" /></a>
+<a href="https://instagram.com/carlos_ismaelad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="carlosismaelad" height="20" width="20" /></a>
+</p>
  
-<div> 
-  <a href="https://instagram.com/carlos_ismaelad" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href = "mailto: carlosismaelad@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlos-dourado-93b520200" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+
