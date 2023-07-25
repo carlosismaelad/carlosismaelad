@@ -1,8 +1,13 @@
 ## Bem-vindo(a) ao meu perfil! 😁
 
-<h2>Me chamos Carlos, tenho 31 anos e resido em Fortaleza-CE</h2>
+<p>
+Me chamos Carlos, tenho 31 anos e resido em Fortaleza-CE.
+Sou estudante de análise e desenvolvimento de sistemas.
+</p>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+  <p>Tecnologias mais usadas:</p>
+  <br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://img.icons8.com/?size=512&id=13441&format=png">
   <img align="center" alt="C#" height="30" width="40" src="https://img.icons8.com/?size=1x&id=45490&format=png">
