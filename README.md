@@ -11,7 +11,7 @@
   
 - 📫 How to reach me **carlosismaelad@gmail.com**
   
-- ⚡ Fun fact **Oneye 😜**
+- ⚡ Interesting things catch my attention **😜**
 
 ### Tecnologias mais usadas:
 <div style="display: inline_block">
