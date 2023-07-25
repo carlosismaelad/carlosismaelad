@@ -1,11 +1,7 @@
-## Bem-vindo(a) ao perfil do carlosismaelad 😁
+## Bem-vindo(a) ao meu perfil! 😁
 
- <div>
-   <a href="https://github.com/carlosismaelad">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosismaelad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDourado8&layout=compact&langs_count=6&theme=tokyonight"/>
+<h2>Me chamos Carlos, tenho 31 anos e resido em Fortaleza-CE</h2>
 
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://img.icons8.com/?size=512&id=13441&format=png">
