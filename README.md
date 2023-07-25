@@ -1,10 +1,16 @@
 ## Hi dear, i'm Carlos Dourado!
 <br>
+
 <h3> A BackEnd developer focused on never stop learning </h3>
+
 <br>
+
 - 👨‍💻 I'm 31 years old
+
 - 💬 Let's talk about **C#, JavaScript, Python, Java, HTML, CSS, SQL**
+  
 - 📫 How to reach me **carlosismaelad@gmail.com**
+  
 - ⚡ Fun fact **Oneye 😜**
 
 
