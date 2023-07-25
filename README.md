@@ -15,18 +15,15 @@
 
 
 <div style="display: inline_block">
-  <p>Tecnologias mais usadas:</p>
-  <br>
+  ### Tecnologias mais usadas:
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://img.icons8.com/?size=512&id=13441&format=png">
   <img align="center" alt="C#" height="30" width="40" src="https://img.icons8.com/?size=1x&id=45490&format=png">
   <img align="center" alt="Typescript" height="30" width="40" src="https://img.icons8.com/?size=1x&id=uJM6fQYqDaZK&format=png">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
+</div> 
+ <br> 
   ### Contacts:
 <div> 
   <a href="https://instagram.com/carlos_ismaelad" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
