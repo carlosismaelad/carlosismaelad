@@ -9,7 +9,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://img.icons8.com/?size=512&id=13441&format=png">
-  <img align="center" alt="C#" height="30" width="40" src="https://img.icons8.com/?size=1x&id=2T6TKY6whzgV&format=png">
+  <img align="center" alt="C#" height="30" width="40" src="https://img.icons8.com/?size=1x&id=mhwmyz1eu7T5&format=png">
   <img align="center" alt="C#" height="30" width="40" src="https://img.icons8.com/?size=1x&id=uJM6fQYqDaZK&format=png">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
