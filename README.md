@@ -28,10 +28,12 @@
  <br>
  
   ### Contacts:
-<p align="center">
-<a href="https://twitter.com/Carlos_IsmaelAD" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="carlos_ismaelAD" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/carlosismaelad/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlosismaelad" height="20" width="20" /></a>
-<a href="https://instagram.com/carlos_ismaelad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="carlosismaelad" height="20" width="20" /></a>
-</p>
+<div> 
+  <a href="https://instagram.com/carlos_ismaelad" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href = "mailto: carlosismaelad@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carlos-dourado-93b520200" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
  
 
