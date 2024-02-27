@@ -9,7 +9,7 @@
 
 - 👨‍💻 Systems analysis and development student
 
-- 💬 Let's talk about **C#, JavaScript, Python, Java and SQL**
+- 💬 Let's talk about **C#, JavaScript, Ruby, PostgreSQL and SQLServer**
   
 - 📫 How to reach me **carlosismaelad@gmail.com**
   
@@ -18,11 +18,7 @@
 ### Tecnologias mais usadas:
 <div style="display: inline_block">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://img.icons8.com/?size=512&id=13441&format=png">
   <img align="center" alt="C#" height="30" width="40" src="https://img.icons8.com/?size=1x&id=55251&format=png">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://img.icons8.com/?size=1x&id=uJM6fQYqDaZK&format=png">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div> 
 
 ### Contacts:
