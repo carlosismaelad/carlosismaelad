@@ -9,7 +9,7 @@
 
 - 👨‍💻 Systems analysis and development student
 
-- 💬 Let's talk about **C#, JavaScript, Ruby, PostgreSQL and SQLServer**
+- 💬 Let's talk about **JavaScript, Java, Rails, PostgreSQL, Docker, Linux and SQL?**
   
 - 📫 How to reach me **carlosismaelad@gmail.com**
   
