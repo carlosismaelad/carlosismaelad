@@ -1,4 +1,4 @@
-## Hi dear, i'm Carlos Dourado!
+## Hello everyone! I'm Carlos Dourado!
 <br>
 
 <h3> A BackEnd developer focused on never stop learning </h3>
