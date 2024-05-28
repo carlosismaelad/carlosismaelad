@@ -18,7 +18,7 @@
 ### Tecnologias mais usadas:
 <div style="display: inline_block">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://yt3.googleusercontent.com/KUq46Xaf58rAGQQimOUshgpW8ksk-W3gtJ1XoOeIfgKHITBTea9qNKGXfaPt8SlEPZT93zw0Vq4=s176-c-k-c0x00ffffff-no-rj">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://pbs.twimg.com/profile_images/691206086955790336/CDMbA57p_400x400.png">
   <img align="center" alt="C#" height="30" width="40" src="https://kinsta.com/wp-content/uploads/2023/01/Java-logo.png">
   <img align="center" alt="C#" height="30" width="40" src="https://img.icons8.com/?size=1x&id=55251&format=png">
 </div> 
