@@ -1,7 +1,7 @@
 ## Hello everyone! I'm Carlos Dourado!
 <br>
 
-<h3> A BackEnd developer focused on never stop learning </h3>
+<h3> A Full stack developer focused on never stop learning </h3>
 
 <br>
 
@@ -15,7 +15,7 @@
   
 - ⚡ Interesting things catch my attention **😜**
 
-### Tecnologias mais usadas:
+### Most used technologies:
 <div style="display: inline_block">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <!--   <img align="center" alt="JavaScript" height="30" width="40" src="https://pbs.twimg.com/profile_images/691206086955790336/CDMbA57p_400x400.png"> -->
