@@ -9,7 +9,7 @@
 
 - 👨‍💻 Full stack | Web developer
 
-- 💬 Let's talk about **JavaScript, C#, Java, PostgreSQL, Docker, Linux and SQL?**
+- 💬 Let's talk about **JavaScript, Node.js, Ruby, Ruby on Rails, C#,  Java, PostgreSQL, Docker, Linux and SQL?**
   
 - 📫 How to reach me **carlosismaelad@gmail.com**
   
