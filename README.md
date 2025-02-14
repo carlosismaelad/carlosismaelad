@@ -7,7 +7,7 @@
 
 - ▶️ I'm 32 years old
 
-- 👨‍💻 Systems analysis and development student
+- 👨‍💻 Systems analysis and development
 
 - 💬 Let's talk about **JavaScript, C#, Java, PostgreSQL, Docker, Linux and SQL?**
   
