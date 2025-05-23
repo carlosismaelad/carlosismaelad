@@ -9,7 +9,7 @@
 
 - 👨‍💻 Full stack | Web developer
 
-- 💬 Let's talk about **JavaScript, Node.js, Java, Spring Boot, Ruby, Ruby on Rails, PostgreSQL, Docker, Linux and SQL?**
+- 💬 Let's talk about **JavaScript, Node.js, Java, Spring Boot, PostgreSQL, Docker, Linux and SQL**
   
 - 📫 How to reach me **carlosismaelad@gmail.com**
   
@@ -20,7 +20,6 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <!--   <img align="center" alt="JavaScript" height="30" width="40" src="https://pbs.twimg.com/profile_images/691206086955790336/CDMbA57p_400x400.png"> -->
   <img align="center" alt="Java" height="30" width="40" src="https://kinsta.com/wp-content/uploads/2023/01/Java-logo.png">
-  <img align="center" alt="Ruby On Rails" height="30" width="40" src="https://avatars.githubusercontent.com/u/4223?s=48&v=4">
 </div> 
 
 ### Contacts:
