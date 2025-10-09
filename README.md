@@ -61,5 +61,5 @@
 <img align= "right" 
 src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGM0bnJjdXdzcGl1b2o0ZWZrdmY2czhkc3ljbHF0ZzU1bGRtZzM2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NfiDPyrYxB6bLCxnkg/giphy.gif" width= "150" alt="Is it the end" />
 
-> "Any software that works well today is bound to be outdated and in need of patching in the very near future. 🌐 🛠️
+> "Any software that works well today is bound to be outdated and in need of patching in the very near future" 🌐 🛠️
 > </br>
