@@ -12,7 +12,7 @@
 
 - **Graduated in Systems Analysis and Development**, with a focus on creating resilient and modern systems that meet software engineering best practices.
 - I enjoy studying **software architecture**, **cloud services**, **performance in mission-critical services** and how to create **scalable applications**.
-- My background is in **people management** and **customer service**, which allows me to see software development as more than just a technical thing; **it's about people interacting**.
+- With experience in **people management** and **customer service**, I learned early on that systems development is more than just writing code: **it's about the interaction between people**.
 - Constantly evolving: Currently, I'm delving into **Go** for creating high-performance APIs, machine learning system infrastructure, and scalable systems, **Python** for creating machine learning models, agents, and systems for integration with LLMs, **Vue.js** to understand how to build modern, beautiful, responsive, and functional user interfaces.
 
 ---
