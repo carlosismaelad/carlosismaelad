@@ -3,7 +3,11 @@
 <h3 align="center">🇧🇷 Hello!</h3>
 
 <p align="center">
-  I am a full-stack software engineer specializing in developing <strong>scalable applications</strong>, focusing on delivering value through <strong>modern software practices</strong>, iterative delivery balancing <strong>performance and quality</strong>, and <strong>continuous learning</strong>.  
+  I am a full-stack software engineer specializing in developing <strong>scalable applications</strong>, focusing on delivering value through <strong>modern software practices</strong>, iterative delivery balancing <strong>performance and quality</strong>, and <strong>continuous learning</strong>. I currently work as a <strong>Software Engineer</strong> at <strong>Wxks</strong>, an industry-leading translation operating system engineered to scale the human soul in the age of generative AI.
+</p>
+<br>
+<p>
+  The platform revolves entirely around the augmented translation experience, empowering human talent to take full control of automated production. Essential business operations, such as workflow, cost management, security, and quality control, derive directly from this single, human-centered focal point.
 </p>
 
 ---
