@@ -13,7 +13,7 @@
 - **Graduated in Systems Analysis and Development**, with a focus on creating modern products that deliver value.
 - I enjoy studying **software architecture**, **cloud services**, and how to create **scalable applications**.
 - My background is in **people management** and **customer service**, which allows me to see software development as more than just a technical thing; **it's about people interacting**.
-- Constantly evolving: Currently diving deeper into **React**, **Angular**, and **Vue.js** to understand how to build modern, beautiful, responsive, and functional user interfaces.
+- Constantly evolving: Currently diving deeper into **Vue.js** to understand how to build modern, beautiful, responsive, and functional user interfaces.
 
 ---
 
